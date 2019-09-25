@@ -1,5 +1,5 @@
 name: Main workflow
-on: [push]
+on: [ push ]
 jobs:
   run:
     name: Run
